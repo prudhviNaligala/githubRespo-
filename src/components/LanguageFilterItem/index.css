@@ -1,0 +1,14 @@
+.lists {
+  list-style-type: none;
+}
+.btn-container {
+  display: flex;
+  margin-left: 25px;
+}
+.btn {
+  outline: none;
+  background-color: transparent;
+  color: black;
+  border: 0;
+  cursor: pointer;
+}

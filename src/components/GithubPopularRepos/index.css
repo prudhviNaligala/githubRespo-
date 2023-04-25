@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.un-order {
+  display: flex;
+}
+.repositoryIte-list {
+  flex-wrap: wrap;
+  display: flex;
+  width: 60%;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
